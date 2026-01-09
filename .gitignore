@@ -1,5 +1,5 @@
 venv\
 *.csv
-anaconda_projects\
-aita_dataset\
-.ipynb_checkpoints\
+anaconda_projects/
+aita_dataset/
+.ipynb_checkpoints/

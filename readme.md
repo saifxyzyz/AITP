@@ -1,12 +1,14 @@
-Imbalance :(:
+Performance:
+``` bash
+              precision    recall  f1-score   support
 
-```bash
-                precision    recall  f1-score   support
+         nta       0.75      0.89      0.82     35559
+         yta       0.41      0.21      0.27     13255
 
-         nta       0.92      1.00      0.96        92
-         yta       0.00      0.00      0.00         8
+    accuracy                           0.71     48814
+   macro avg       0.58      0.55      0.54     48814
+weighted avg       0.66      0.71      0.67     48814
 
-    accuracy                            0.92       100  
-    macro avg       0.46      0.50      0.48       100
-    weighted avg    0.85      0.92      0.88       100
+
 ```
+
