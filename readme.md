@@ -1,3 +1,10 @@
+A Machine Learning Model to identify the negative class in social conflicts.  
+Used TF-IDF for vectorization  
+Made an Ensemble Voting Classifier model using Linear Support Vector Machine and Logistic Regression
+
+<img width="1919" height="1010" alt="Screenshot 2026-01-10 110235" src="https://github.com/user-attachments/assets/436daa1b-4b3c-48bc-a5d5-941ff27ee6d0" />
+
+
 Performance:
 ``` bash
               precision    recall  f1-score   support
